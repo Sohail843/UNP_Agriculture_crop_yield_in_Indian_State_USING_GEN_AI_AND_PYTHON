@@ -4,4 +4,4 @@ This project focuses on predicting and analyzing agricultural crop yields across
 
 GOOGLE COLAB CODE FILE : https://drive.google.com/file/d/11llErzy2HTk58IEVve9rwRy1dmgYIqeY/view?usp=sharing
 
-PROJECT PRECENTATION FILE : https://drive.google.com/file/d/1p58A-agbITWEix3fsU993rrVqvWTDxw7/view?usp=sharing
+PROJECT PRESENTATION FILE : https://drive.google.com/file/d/1p58A-agbITWEix3fsU993rrVqvWTDxw7/view?usp=sharing
